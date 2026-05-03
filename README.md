@@ -28,7 +28,7 @@ This project applies multiple machine learning algorithms to predict whether a h
 
 ## Live Demo
 
-[Click here to try the app](https://your-app-link.streamlit.app)
+[Click here to try the app](https://hotel-booking-cancellation-mo-khalid-1.streamlit.app/)
 
 ## How to Run Locally
 
