@@ -16,19 +16,22 @@ This project applies multiple machine learning algorithms to predict whether a h
 - Support Vector Machine
 - Neural Network (MLP)
 
+
 ## Project Structure
 
-├── hotel_bookings.csv               # Dataset
-├── hotel_booking_ml_project.ipynb   # Main Jupyter Notebook
-├── app.py                           # Streamlit GUI
-├── best_cancellation_model.pkl      # Saved best model
-├── scaler.pkl                       # Saved scaler
-├── model_columns.pkl                # Saved feature columns
-└── requirements.txt                 # Python dependencies
+```
+├── hotel_bookings.csv                 # Dataset
+├── hotel_booking.ipynb                # Main Jupyter Notebook
+├── app.py                             # Streamlit GUI
+├── best_cancellation_model.pkl        # Saved best model
+├── scaler.pkl                         # Saved scaler
+├── model_columns.pkl                  # Saved feature columns
+└── requirements.txt                   # Python dependencies
+```
 
 ## Live Demo
 
-[Click here to try the app](https://your-app-link.streamlit.app)
+[Click here to try the app](https://hotel-booking-cancellation-mo-khalid-1.streamlit.app/)
 
 ## How to Run Locally
 
